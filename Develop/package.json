@@ -9,10 +9,12 @@
     "server": "cd server && npm start",
     "server:dev": "cd server && npm run dev",
     "install": "cd server && npm i && cd ../client && npm i",
+    "cypress": "npx cypress open",
     "client:build": "cd client && npm run build",
     "client:dev": "cd client && npm run dev",
     "build": "cd server && npm run build",
     "seed": "cd server && npm run seed",
+    "test": "npx cypress run --browser electron --headless",
     "render-build": "npm install && npm run build"
   },
   "keywords": [],
