@@ -1,8 +1,8 @@
 # 19 Testing: Tech Quiz Test
 
-
 ## Description
-the purpose of this application is to properly set up cypress testing. There is e2e testing and component testing that can be either be tested through cypress GUi by running "npm run cypress" or you can use "npm run test" to test the application through the terminal
+The purpose of this application is to properly set up Cypress testing. There is e2e testing and component testing that can either be tested through the Cypress GUI by running "npm run cypress" or you can use "npm run test" to test the application through the terminal.
+
 ## Getting Started
 
 ### Dependencies
@@ -26,23 +26,22 @@ the purpose of this application is to properly set up cypress testing. There is 
 - wait-on: ^7.2.0
 
 ### Walkthrough Video
-this is a video showing how to test the application
-[walkthrough video](<../../Videos/2024-10-21 05-30-34.mkv>)
+This is a video showing how to test the application:
+[walkthrough video](https://github.com/user-attachments/assets/d98cb6a4-8cc5-4746-adea-14c841351d9a)
 
 ### Installing
-Navigate to the Develop directory then run these commands in the terminal
+Navigate to the Develop directory then run these commands in the terminal:
 
 - npm i
 - npm run start
 - npm run seed
 
-After those command have two terminals open at the same time
+After those commands, have two terminals open at the same time.
 
-In the first terminal run "npm run start:dev"
-in the other terminal run "npm run cypress" or "npm run test"
+In the first terminal, run "npm run start:dev".
+In the other terminal, run "npm run cypress" or "npm run test".
 
 ## Contributors
 Tavin Sowell
 
-github: https://github.com/Tavinsowell
-
+GitHub: https://github.com/Tavinsowell
